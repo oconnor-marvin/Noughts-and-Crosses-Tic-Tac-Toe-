@@ -21,7 +21,7 @@ Again having someone to help me would have been good. I will attempt to figure t
 
 I find games very difficult. They are my least favourite kind of project at the moment. Perhaps this is a sign that I should work on more of these types of projects.</li>
 
-<h4>Furture Improvements</h4>
+<h4>Future Improvements</h4>
 
 The game is missing an AI feature that could be implemented in the future. To be honest, this is not something that interests me and therefore I think it will be difficult to find motivation to complete this. The design could be improved too but this was not a key factor in this project. The only improvements I would like to make are in regards to the location of my functions and elements, however, as noted in my <i>Mistakes to Learn From</i> section, this is something I would want guidance with.
 
